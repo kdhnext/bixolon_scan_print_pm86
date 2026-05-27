@@ -20,7 +20,7 @@ app/libs/bixolon_printer_*.jar
 app/libs/libcommon_*.jar
 app/src/main/jniLibs/
 
-# PM85 scanner SDK (provided by device manufacturer)
+# PM86 scanner SDK (provided by device manufacturer)
 app/sdk/device.sdk.jar
 
 # APK outputs

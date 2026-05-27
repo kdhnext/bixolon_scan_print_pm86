@@ -30,6 +30,6 @@ Third-party assets NOT covered by the MIT license above:
   BIXOLON Inc. Use of these assets is subject to the BIXOLON Brand
   Guidelines.
 
-* BIXOLON UPOS SDK and PM85 scanner SDK are proprietary and must be
+* BIXOLON UPOS SDK and PM86 scanner SDK are proprietary and must be
   obtained from their respective vendors. They are NOT included in this
   repository (see `.gitignore`).

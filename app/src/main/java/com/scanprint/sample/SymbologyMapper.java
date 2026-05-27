@@ -18,7 +18,7 @@ final class BarcodeSpec {
 }
 
 /**
- * Maps a PM85 scanner symbology name → Bixolon POS printer barcode type.
+ * Maps a PM86 scanner symbology name → Bixolon POS printer barcode type.
  *
  * If the input data doesn't fit the scanned type (e.g. scanner returned UPC-A but the
  * data has letters), we fall back to a type that can encode it: Code128 for ASCII,
