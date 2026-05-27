@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Stylized "X" from BIXOLON wordmark, drawn with two thick rounded diagonals. -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="13"
+        android:strokeLineCap="round"
+        android:pathData="M 36,36 L 72,72"/>
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="13"
+        android:strokeLineCap="round"
+        android:pathData="M 72,36 L 36,72"/>
+
+    <!-- Barcode hint: 3 short white bars under the X to suggest "scan → print". -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M 42,82 h 3 v 8 h -3 z"/>
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M 49,82 h 2 v 8 h -2 z"/>
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M 55,82 h 4 v 8 h -4 z"/>
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M 62,82 h 2 v 8 h -2 z"/>
+</vector>

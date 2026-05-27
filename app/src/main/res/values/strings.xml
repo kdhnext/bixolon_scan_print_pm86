@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Scan To Print</string>
+    <string name="tagline">a Better Solution for your Business</string>
+    <string name="slogan">Your Printing Challenge Solved</string>
+    <string name="section_1_title">Printer</string>
+    <string name="section_2_title">Scanner</string>
+    <string name="section_3_title">Print</string>
+    <string name="status_disconnected">Disconnected</string>
+    <string name="status_connecting">Connecting…</string>
+    <string name="status_connected">Connected</string>
+    <string name="auto_print_note">Each scan is printed automatically.</string>
+</resources>

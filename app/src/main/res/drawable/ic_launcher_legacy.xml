@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="@color/bxl_orange"/>
+        </shape>
+    </item>
+    <item android:gravity="center">
+        <vector
+            android:width="48dp"
+            android:height="48dp"
+            android:viewportWidth="108"
+            android:viewportHeight="108">
+            <path
+                android:strokeColor="#FFFFFF"
+                android:strokeWidth="13"
+                android:strokeLineCap="round"
+                android:pathData="M 36,36 L 72,72"/>
+            <path
+                android:strokeColor="#FFFFFF"
+                android:strokeWidth="13"
+                android:strokeLineCap="round"
+                android:pathData="M 72,36 L 36,72"/>
+            <path
+                android:fillColor="#FFFFFF"
+                android:pathData="M 42,82 h 3 v 8 h -3 z"/>
+            <path
+                android:fillColor="#FFFFFF"
+                android:pathData="M 49,82 h 2 v 8 h -2 z"/>
+            <path
+                android:fillColor="#FFFFFF"
+                android:pathData="M 55,82 h 4 v 8 h -4 z"/>
+            <path
+                android:fillColor="#FFFFFF"
+                android:pathData="M 62,82 h 2 v 8 h -2 z"/>
+        </vector>
+    </item>
+</layer-list>

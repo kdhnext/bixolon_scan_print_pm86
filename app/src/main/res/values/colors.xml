@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- BIXOLON Primary -->
+    <color name="bxl_orange">#EE7203</color>
+    <color name="bxl_orange_tint1">#F28E00</color>
+    <color name="bxl_orange_tint2">#F7AA4E</color>
+
+    <!-- Mobile Printer product line (this app drives SPP-R series) -->
+    <color name="bxl_teal">#20B3AA</color>
+    <color name="bxl_teal_tint">#C1E2DF</color>
+
+    <!-- Grayscale -->
+    <color name="bxl_black">#000000</color>
+    <color name="bxl_dark_gray">#3F3D3E</color>
+    <color name="bxl_gray">#878786</color>
+    <color name="bxl_mid_gray">#AEAEAE</color>
+    <color name="bxl_light_gray">#F5F5F5</color>
+    <color name="bxl_white">#FFFFFF</color>
+
+    <!-- Semantic -->
+    <color name="status_ok">#20B3AA</color>
+    <color name="status_warn">#F28E00</color>
+    <color name="status_off">#AEAEAE</color>
+</resources>

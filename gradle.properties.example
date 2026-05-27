@@ -1,0 +1,7 @@
+org.gradle.jvmargs=-Xmx1536m
+
+# If Android Studio uses a JDK > 18 by default, point Gradle at your local JDK 17:
+# org.gradle.java.home=C:/Program Files/Eclipse Adoptium/jdk-17.0.18.8-hotspot
+
+android.useAndroidX=true
+android.enableJetifier=true

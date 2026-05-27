@@ -1,0 +1,28 @@
+# Gradle / build
+build/
+.gradle/
+*.iml
+gradle.properties
+
+# Android Studio / IntelliJ
+.idea/
+*.log
+local.properties
+captures/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Vendor SDKs — these must be obtained separately
+# Bixolon UPOS SDK (https://www.bixolon.com)
+app/libs/bixolon_printer_*.jar
+app/libs/libcommon_*.jar
+app/src/main/jniLibs/
+
+# PM85 scanner SDK (provided by device manufacturer)
+app/sdk/device.sdk.jar
+
+# APK outputs
+*.apk
+*.aab
